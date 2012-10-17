@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nam: MyString
+  password: MyString
+  score: 1
+
+two:
+  nam: MyString
+  password: MyString
+  score: 1

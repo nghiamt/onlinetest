@@ -1,0 +1,71 @@
+#baner {
+	background: #F0F8FF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid;
+	font: small-caps 40px/40px "Times New Roman", serif;
+	color: #282;
+	text-align: center;
+}
+#home {
+	background: #F0F8FF;
+}
+
+#columns {
+	background: #FAEBD7;
+}
+
+#main {
+	margin-left: 210px;
+	padding-top: 10px;
+	padding-left: 40px;
+	padding-right: 30px;
+	background: white;
+	text-align: left;
+	padding-bottom: 100px;
+	text-align:justify;
+}
+
+#main p {
+	text-indent:20px;
+}
+
+#side {
+	float: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	width: 200px;
+	background: #FAEBD7;
+}
+
+#side a {
+	color: #800000;
+	font-size: medium;
+}
+
+#store h1 {
+	font: 150% sans-serif;
+	color: #226;
+	border-bottom: 3px dotted #77d;
+}
+
+#side ul {
+	list-style-type: none;
+	margin: 10px;
+	padding: 10px;
+}
+
+#side ul li {
+	padding: 5px
+}
+
+#bottom {
+	background: #F0F8FF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: #282 2px solid;
+	font: medium 10px/10px "Times New Roman", serif;
+	color: black;
+	text-align: center;
+}
